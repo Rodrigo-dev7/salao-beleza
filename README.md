@@ -1,11 +1,17 @@
+
 ﻿# Studio Aurora | Salao de Beleza
 
 Site institucional mobile-first para um salao de beleza pequeno, com visual moderno, elegante e responsivo.
 
 O projeto foi criado em HTML, CSS e JavaScript puros, com foco em carregamento rapido, boa leitura no celular e uma estetica sofisticada inspirada em tons escuros, champagne e rose.
 
+
 <p align="center">
-  <img src="assets/hero-salao.jpg" alt="Previa visual do site Studio Aurora" width="420" />
+  <img width="1390" height="691" alt="STUDIO" src="https://github.com/user-attachments/assets/7f9af5b4-0066-4311-a1fb-171e9de30699" />
+  
+  <img width="359" height="579" alt="studio-2" src="https://github.com/user-attachments/assets/51f0cafa-34f8-4edc-8619-659868afb315" />
+
+
 </p>
 
 ## Visao Geral
